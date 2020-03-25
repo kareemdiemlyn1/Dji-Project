@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,RTL HD
+https://s1020-0-136.cdn.iptv.ch/session/31671810-19b4-11e8-b5c6-005056bc1c9e/nvnv5a/1/1020/4240000/index.m3u8
+#EXTINF:-1,RTL II HD
+https://s1018-0-136.cdn.iptv.ch/session/53678a12-19b4-11e8-b5c6-005056bc1c9e/nvnv5a/1/1024/4240000/index.m3u8
+#EXTINF:-1,SAT 1 HD
+https://s1018-0-136.cdn.iptv.ch/session/81c65924-19b4-11e8-b5c6-005056bc1c9e/nvnv5a/1/1038/4240000/index.m3u8
+#EXTINF:-1,PRO 7 HD
+https://s1016-1-137.cdn.iptv.ch/session/a2cd3d60-18f4-11e8-aa61-005056bc1c9e/nvnv5a/1/1037/4240000/index.m3u8
+#EXTINF:-1,Kabel 1 HD
+https://s1041-1-137.cdn.iptv.ch/session/ca03e2aa-1a69-11e8-a510-005056bc1c9e/nvnv5a/1/1039/4240000/index.m3u8
+#EXTINF:-1,VOX HD
+https://s1021-1-137.cdn.iptv.ch/session/753f0e84-19b5-11e8-b5c6-005056bc1c9e/nvnv5a/1/1021/4240000/index.m3u8
+#EXTINF:-1,SIXX HD
+https://s1021-1-137.cdn.iptv.ch/session/0646da8c-1a6b-11e8-a510-005056bc1c9e/nvnv5a/1/1040/4240000/index.m3u8
+#EXTINF:-1,Tele 5
+https://s1017-0-136.cdn.iptv.ch/session/a9e03eee-1a7b-11e8-be7e-005056bc1c9e/nvnv5a/1/1090/2290000/index.m3u8
+#EXTINF:-1,Prosiben MAXX
+https://s1020-1-137.cdn.iptv.ch/session/0b34dbb2-1a6a-11e8-a510-005056bc1c9e/nvnv5a/1/1041/2290000/index.m3u8
+#EXTINF:-1,DMAX
+https://s1019-0-136.cdn.iptv.ch/session/f2ec42ea-1a6c-11e8-a510-005056bc1c9e/nvnv5a/1/1018/2290000/index.m3u8
